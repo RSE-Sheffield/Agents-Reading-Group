@@ -29,6 +29,8 @@ The group meets every 2 week on Tuesday Afternoon at 3-4:30pm. Contact Edwin if 
 
 Have a paper, tool, or topic you'd like the group to explore? Drop it in the [`ideas/`](./ideas/) folder — no need for a full plan, just a title and a sentence or two. See [`ideas/README.md`](./ideas/README.md) for the template and naming convention.
 
+Prefer not to open a PR? [Submit a session idea as a GitHub issue](https://github.com/RSE-Sheffield/Agents-Reading-Group/issues/new?template=session-idea.yml).
+
 **Only once we have a topic and a Lead, does it get added to the schedule! Until then, it sits in the ideas.**
 
 Want to propose a session or contribute? See [CONTRIBUTING.md](./CONTRIBUTING.md).

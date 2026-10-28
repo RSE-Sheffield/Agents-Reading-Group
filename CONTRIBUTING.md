@@ -37,6 +37,8 @@ Once your file is ready, update the Schedule table in `README.md` and open a PR.
 
 ## Submitting an idea
 
+The quickest way is to [open a session idea issue](https://github.com/RSE-Sheffield/Agents-Reading-Group/issues/new?template=session-idea.yml) — the form mirrors the idea template. Alternatively, add an idea file via a PR.
+
 Idea files live in `ideas/` and use a simple slug with no date prefix:
 
 ```

@@ -2,7 +2,7 @@
 marp: true
 ---
 
-<!-- The deck is exported from Google Slides as images. The heading below gives the site index its title and is moved off-screen. A PDF with working links is in slides.pdf. -->
+<!-- The deck is exported from Google Slides as images. The heading below gives the site index its title and is moved off-screen. A PDF with working links is in google-slides-export.pdf. -->
 <style scoped>h1 { position: absolute; left: -9999px; }</style>
 
 # Introduction to World Models

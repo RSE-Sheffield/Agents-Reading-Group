@@ -1,0 +1,55 @@
+name: Session idea
+description: Propose a topic for a future reading group session
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas don't need to be fully formed — a rough title and a sentence or two is enough. See [ideas/README.md](../blob/main/ideas/README.md) for more.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: A working title for the session idea.
+      placeholder: e.g. Multi-agent evals
+    validations:
+      required: true
+  - type: input
+    id: proposed-by
+    attributes:
+      label: Proposed by
+      description: Your name or GitHub handle.
+      placeholder: e.g. "@your-handle"
+    validations:
+      required: true
+  - type: checkboxes
+    id: format
+    attributes:
+      label: Suggested format
+      description: Pick one or combine.
+      options:
+        - label: Paper
+        - label: Demo
+        - label: Exercise
+        - label: Discussion
+  - type: textarea
+    id: why-interesting
+    attributes:
+      label: Why interesting
+      description: One or two sentences on why this would be valuable for the group.
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: Primary resource and any supporting material (papers, repos, talks, blog posts).
+      placeholder: |
+        - [Primary resource](https://...)
+        - [Supporting material](https://...)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Any extra context, prerequisites, or open questions. Leave blank if not applicable.

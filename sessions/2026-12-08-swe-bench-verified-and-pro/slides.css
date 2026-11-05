@@ -1,0 +1,44 @@
+/* @theme uos */
+@import 'default';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+:root {
+  --uos-purple: #440099;
+  --uos-black: #131E29;
+  --uos-white: #F8F8F9;
+}
+section {
+  background: var(--uos-white);
+  color: var(--uos-black);
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3 {
+  color: var(--uos-purple);
+}
+a {
+  color: var(--uos-purple);
+}
+section.lead {
+  background: var(--uos-purple);
+  color: var(--uos-white);
+}
+section.lead h1, section.lead h2, section.lead h3 {
+  color: var(--uos-white);
+}
+section.lead a {
+  color: var(--uos-white);
+  text-decoration: underline;
+}
+section.small {
+  font-size: 24px;
+}
+section.small h2 {
+  font-size: 1.5em;
+}
+footer {
+  font-size: 14px;
+  color: #555;
+}
+section.lead footer {
+  color: rgba(248, 248, 249, 0.85);
+}

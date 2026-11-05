@@ -12,8 +12,8 @@ paginate: true
 
 _What do coding-agent benchmarks actually measure?_
 
-**Session:** 8th December 2026
-**Lead:** TBC
+**Session:** 10th November 2026
+**Lead:** Chris
 
 ---
 
@@ -81,8 +81,6 @@ _Scale AI, 2025_
 - Tasks may take a professional hours to days
 - Frontier scores far lower than Verified at launch
 
-_The v1 and v2 of the paper report different headline scores. Check which version you are citing._
-
 ---
 
 <!-- _class: small -->
@@ -142,7 +140,6 @@ td:first-child { font-weight: bold; white-space: nowrap; }
 5. Who should build and maintain benchmarks?
 6. Resolved issues vs. useful software engineering
 7. Research software: would these scores predict usefulness for us?
-8. What should we report when using a coding agent?
 
 ---
 
@@ -155,4 +152,3 @@ td:first-child { font-weight: bold; white-space: nowrap; }
 - [SWE-bench Pro (Scale Labs)](https://labs.scale.com/papers/swe-bench-pro)
 - [Why we no longer evaluate SWE-bench Verified (OpenAI)](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
 - [OpenAI drops SWE-Bench Verified, backs Pro (AI Weekly)](https://aiweekly.co/alerts/openai-drops-swe-bench-verified-backs-pro-after-flaw-audit)
-- [SWE-bench contamination debate (Codesota)](https://codesota.com/news/swe-bench-contamination-debate)

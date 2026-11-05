@@ -28,14 +28,16 @@ _What do coding-agent benchmarks actually measure?_
 
 ---
 
+<!-- _class: small -->
+
 ## What is SWE-bench?
 
 - Input: a real GitHub issue and a snapshot of the repository
 - The agent produces a **patch**
-- Hidden tests decide the outcome:
-  - **FAIL → PASS**: the issue is fixed
-  - **PASS → PASS**: nothing else broke
+- Hidden tests decide the outcome: **FAIL → PASS** (issue fixed) and **PASS → PASS** (nothing broke)
 - Score = % of tasks **resolved**
+
+![width:1100px](images/SWE_bench_example.png)
 
 _Jimenez et al., "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?", 2023_
 
@@ -62,6 +64,7 @@ _OpenAI, 23 February 2026: "Why we no longer evaluate SWE-bench Verified"_
    - Open-source repos and issues are widely used in training
    - Models that have seen a task do better, especially when tests are underspecified
 
+[scikit-learn example](https://openai.com/index/introducing-swe-bench-verified/)
 Conclusion: gains no longer reflect real coding ability.
 
 ---
@@ -118,10 +121,9 @@ td:first-child { font-weight: bold; white-space: nowrap; }
 
 **Goal:** see what a SWE-bench task really looks like.
 
-**Pairs.** Browse one task:
+**Instructions:**
 
-- Verified: `huggingface.co/datasets/SWE-bench/SWE-bench_Verified`
-- Pro: `huggingface.co/datasets/ScaleAI/SWE-bench_Pro`
+- Read
 
 **Read** the problem statement, reference patch and tests, then judge:
 

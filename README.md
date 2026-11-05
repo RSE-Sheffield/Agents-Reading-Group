@@ -22,7 +22,7 @@ The group meets every 2 week on Tuesday Afternoon at 3-4:30pm. Contact Edwin if 
 | 01/09/2026 | [Agents Reviewing Old Papers](https://github.com/RSE-Sheffield/Agents-Reading-Group/blob/main/ideas/agents-reviewing-old-research.md) | Joe | [Slides](https://rse.shef.ac.uk/Agents-Reading-Group/sessions/2026-09-01-agents-reviewing-old-papers/) |
 | 13/10/2026 | [Reimagining research papers as interactive and reliable AI agents](https://www.nature.com/articles/s41586-026-11044-y) | Edwin | [Slides](https://rse.shef.ac.uk/Agents-Reading-Group/sessions/2026-10-13-paper2agent/) |
 | 27/10/2026 | [Mathpocalypse](./sessions/2026-10-27-mathpocalypse/README.md) — AI agents and the flood of machine-generated mathematics | Joe | [Slides](https://rse.shef.ac.uk/Agents-Reading-Group/sessions/2026-10-27-mathpocalypse/) |
-|            |    | | |
+| 10/11/2026 | SWE-bench Verified and SWE-bench Pro | Chris | [Slides](https://rse.shef.ac.uk/Agents-Reading-Group/sessions/2026-11-10-swe-bench-verified-and-pro/) |
 | 24/11/2026 | Reverse engineering software with agentic AI | Shaun | |
 
 ## Ideas & Suggestions

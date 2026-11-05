@@ -102,13 +102,13 @@ td:first-child { font-weight: bold; white-space: nowrap; }
 | Repositories | 12 (Python) | 41 |
 | Source | Public open source | Public, copyleft and private |
 | Avg. patch size | ~12 lines | ~107 lines |
-| Main weakness | Flawed tests, contamination | Public split still public; grading disputed |
+| Languages | Python | Python, JS, TS, Java, C++, Go, Rust |
 
 ---
 
 ## Open questions
 
-- Is every static public benchmark doomed to saturate?
+- Is every static public benchmark doomed to saturate? (claude-4-5-Sonnet	43.7%, claude-5-5-Sonnet  81.3%)
 - Does contamination resistance last once tasks are released?
 - Reports suggest Pro has grading issues of its own. Treat as unverified until checked against primary sources.
 - Leaderboard scores depend on the **scaffold**, tool set, attempts and compute, not just the model
@@ -123,16 +123,13 @@ td:first-child { font-weight: bold; white-space: nowrap; }
 
 **Instructions:**
 
-- Read
+- Read SWE-bench Verified and Pro tasks on Hugging Face
+- Inspect the issue text, reference patch, and hidden tests
 
-**Read** the problem statement, reference patch and tests, then judge:
+[SWE-bench Verified](https://huggingface.co/datasets/SWE-bench/SWE-bench_Verified)
+[SWE-bench Pro](https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro)
 
-- **Specification:** is the issue enough to write a patch the tests accept?
-- **Alternatives:** would a different correct fix pass?
-- **Leakage:** could a model have memorised this?
-- **Difficulty:** one hour or one day?
 
-**Verdict:** _fair / underspecified / over-constrained / likely leaked_
 
 ---
 

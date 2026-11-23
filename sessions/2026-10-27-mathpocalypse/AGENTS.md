@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Discussion group session materials on the "Mathpocalypse" topic covering the recent flood of AI-agent-generated mathematics research results.
+A presentation on the "Mathpocalypse" topic covering the recent rise of AI-agent-generated mathematics frontier research results.
 
 ## Conventions
 

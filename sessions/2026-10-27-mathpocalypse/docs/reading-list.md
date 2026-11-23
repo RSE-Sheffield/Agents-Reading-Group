@@ -48,6 +48,7 @@ If you have 30 minutes, read #1, #4 and #5.
 |---|---|---|
 | 7 | OpenAI, [“On the Navier–Stokes Millennium Prize Problem”](https://openai.com/index/navier-stokes-solution/), 8 Sep | Primary source for the swarm: roughly 10,000 agents, 88 hours, 2.7 million messages. It reports tokens and messages, not cost. |
 | 8 | OpenAI, [“Sharing AI progress in mathematics”](https://openai.com/index/sharing-ai-progress-in-mathematics/), 6 Oct, and the [`openai/math` README](https://github.com/openai/math) | Primary source for the bulk release. The README holds the current counts (719 manuscripts, 372 families) and the labelling scheme. |
+| 8a | OpenAI, [“Working with academic communities to build scientific understanding”](https://openai.com/index/building-scientific-understanding-with-academic-communities/), 26 Oct | The revised release model (external “shepherd” groups, no academic credit claimed) and three large unverified claims: local smoothing, ETH refuted, Yang–Mills/QCD existence. Notes: [openai-academic-communities.md](openai-academic-communities.md). |
 | 9 | Terence Tao, [finite-time blowup with smooth forcing](https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations), 7 Sep | How the construction works, and the human, AI-assisted work it builds on. Useful for the priority dispute. |
 | 10 | Feng et al., [“Towards Autonomous Mathematics Research”](https://arxiv.org/abs/2602.10177) (DeepMind’s Aletheia) | The measured precedent, with autonomy and novelty ratings and “human–AI interaction cards”. A model for how disclosure could work. |
 | 11 | Anthropic, [“Formalizing Fermat’s Last Theorem”](https://www.anthropic.com/research/formalizing-fermats-last-theorem), 4 Sep | The contrasting release model, and the clearest example of autoformalisation at scale (13 million lines in 11 days). |
@@ -125,6 +126,7 @@ These were not read in full for the research brief. Titles are in rough order of
 | 3 | 3Blue1Brown, from 20:46: why there has never been a better time to go into maths | 10 min | The optimistic counterweight. Notes: [3blue1brown-better-time-for-math.md](3blue1brown-better-time-for-math.md). |
 | 4 | Aaronson on the *Modern CTO* podcast | about 30 min | Spoken version of the Mathocalypse argument. Notes: [aaronson-modern-cto-interview.md](aaronson-modern-cto-interview.md). |
 | 5 | Tao, [“The integrated explicit analytic number theory network”](https://www.youtube.com/watch?v=Boo72U-9u3c), IPAM, 17 Sep | about 1 hour | A working example of human–AI collaboration at scale. |
+| 6 | Borcherds and Weinstein, [“Fields Medalist & Eric Weinstein on the Future of Mathematics”](https://www.youtube.com/watch?v=XqgnJyQZGG4), *Theories of Everything*, 9 Nov | first 15 min | The bleakest framing from a Fields Medallist (“no reason for employing me”), quickly qualified: AI fills in the “convex hull”, theory building stays human for now. Notes: [borcherds-weinstein-toe.md](borcherds-weinstein-toe.md). |
 
 Paywalled, so lower priority: the NYT *Daily* episode with Steven Strogatz (13 Oct) and the NYT Tao
 interview (16 Oct).

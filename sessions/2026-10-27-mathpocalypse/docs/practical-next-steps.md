@@ -97,13 +97,13 @@ failed attempts, and what was checked by whom. A good result could become a grou
 
 **Exercise: find the verifier gap.** Each person names one claim in their research that a machine
 can check cheaply and one that no machine can check. This leads into the
-[research certificates session](../../2026-11-10-research-certificates.md) on 10 November.
+[research certificates session](https://github.com/RSE-Sheffield/Agents-Reading-Group/blob/main/sessions/2026-11-10-research-certificates.md) on 10 November.
 
 ## 6. Possible follow-up sessions
 
 - **Hands-on Lean with an agent**: a workshop version of sections 1–2, pairing well with the
-  [Harmonic Aristotle idea](../../../ideas/mathematics-harmonic-aristotle.md).
+  [Harmonic Aristotle idea](https://github.com/RSE-Sheffield/Agents-Reading-Group/blob/main/ideas/mathematics-harmonic-aristotle.md).
 - **"Property-based testing is the RSE's Lean"**: a practical session on verifiers for scientific
   code, linked to the
-  [formal verification in physics & engineering idea](../../../ideas/formal-verification-physics-engineering.md).
+  [formal verification in physics & engineering idea](https://github.com/RSE-Sheffield/Agents-Reading-Group/blob/main/ideas/formal-verification-physics-engineering.md).
 - **Evolutionary search hack session**: OpenEvolve on problems the group brings along.

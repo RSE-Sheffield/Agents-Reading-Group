@@ -1,10 +1,18 @@
-# Mathpocalypse — AI Agents and the Flood of Machine-Generated Mathematics
+# Mathpocalypse
 
-**Date:** 27 October 2026 · 3:00–4:30 pm · **Lead:** Joe Heffer
+## AI Agents and the Rise of Machine-Generated Mathematics
 
 Session materials for the RSE agents reading group on the "Mathpocalypse": the sudden explosion of
 research-level mathematics produced by AI agents, and what it means for how research is done,
 checked, and credited.
+
+> **Current deck:** `slides.md` has been reworked as a ~20-minute horizon-scan briefing for the
+> **IT Services Executive** (CTO, Product & Delivery, Head of Product, Head of InfoSec, Head of IT
+> Services). It keeps the maths as the case study but frames it for a technical, non-mathematician
+> audience: verifiers as CI, trust as the bottleneck, shadow AI, security and the recurring
+> research-AI stack. The evidence pack is
+> [`docs/it-services-exec-research/`](docs/it-services-exec-research/it-services-exec-update-research.md).
+> The original reading-group deck (27 Oct 2026) is in this repo's git history (commit `fbe9f9e`).
 
 ## Overview
 
@@ -27,7 +35,7 @@ cheap; adjudicating them is not.*
 | Path | What it is |
 | --- | --- |
 | `README.md` | This session plan |
-| `slides.md` | The session deck — Marp Markdown |
+| `slides.md` | The deck (IT Services Executive briefing) — Marp Markdown |
 | `slides.css` | `uos` Marp theme (University of Sheffield branding) |
 | `references.bib` | BibTeX for everything cited in the deck |
 | `images/` | Logo and slide assets |
@@ -175,3 +183,6 @@ Aim to cover at least four.
   the triage/false-positive problem from the other direction
 - [Research certificates (10/11/2026)](../2026-11-10-research-certificates.md) — generalising
   machine-checkable certificates beyond maths
+- Edwin Brown, "Agentic Research: From Basics to Full Agentic Armour" (RSE talk, 12/11/2026) — why agents need a
+  *verifiable*, *navigable* and *accessible* environment; the framework behind "Why maths went first". See also
+  [formally verified quantum programs (arXiv:2611.09822)](https://arxiv.org/abs/2611.09822), his example of verifiable science

@@ -194,7 +194,7 @@ These matter most for the session, because they are people the room will recogni
   money.
 - Its key difference is that **verification is the strategy, not one layer among nine**. All
   output goes through Lean 4. See [the tools note](ai-mathematics-research-tools.md) and the
-  [Harmonic Aristotle idea](../../../ideas/mathematics-harmonic-aristotle.md).
+  [Harmonic Aristotle idea](https://github.com/RSE-Sheffield/Agents-Reading-Group/blob/main/ideas/mathematics-harmonic-aristotle.md).
 
 ### Doron Zeilberger: accelerate, and drop the rigour
 
